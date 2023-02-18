@@ -1,2 +1,2 @@
 # NLP-Projects
-This repo contains all my NLP projects
+This repo contains all my NLP Projects.
